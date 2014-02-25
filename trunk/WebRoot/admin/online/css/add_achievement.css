@@ -1,0 +1,41 @@
+body
+{
+	text-align: center;
+	width: 660px;
+}
+
+.top_div
+{
+	margin: 0px auto;
+	width: 580px;
+	text-align: left;
+}
+
+.text_input_big
+{
+	width: 300px;
+	border: solid 1px #3b97d9;
+}
+
+#orders
+{
+	margin: 5px;
+	padding: 10px;
+	border: solid 1px gray;
+	background-color: #d8e8d8;
+}
+
+.order
+{
+	margin: 5px;  
+	padding: 5px;
+	border: solid 1px gray;
+	background-color: #eef7ff;
+}
+
+.order_item
+{
+	padding-left: 10px;
+	margin-bottom: 5px;
+	color: blue;
+}

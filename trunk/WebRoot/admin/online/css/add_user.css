@@ -1,0 +1,34 @@
+body
+{
+	text-align: center;
+	width: 660px;
+}
+
+.top_div
+{
+	margin: 0px auto;
+	width: 300px;
+	text-align: left;
+}
+
+.authority
+{
+	padding-left: 20px;
+	width: 260px;
+}
+.authority_h
+{
+	color: blue;
+}
+
+.a_hide,.a_show
+{
+	background: url(../images/sizeminus.gif) center right no-repeat;
+	padding-right: 20px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.a_show
+{
+	background: url(../images/sizeplus.gif) center right no-repeat;
+}

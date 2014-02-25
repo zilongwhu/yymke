@@ -1,0 +1,54 @@
+body
+{
+	text-align: center;
+	width: 660px;
+}
+
+.top_div
+{
+	margin: 0px auto;
+	width: 600px;
+	padding: 10px 0px;
+	text-align: left;
+}
+
+#container
+{
+	padding: 0px 0px 10px 10px;
+}
+
+.type
+{
+	color: green;
+	padding-left: 20px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	margin: 0px 0px 0px 5px;
+	background: url(../images/product-type.gif) left center no-repeat;
+}
+
+.product
+{
+	color: blue;
+	padding-left: 20px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	margin: 0px 0px 0px 5px;
+	background: url(../images/product.gif) left center no-repeat;
+}
+
+.info
+{
+	color: black;
+	padding-left: 20px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	margin: 0px 0px 0px 5px;
+	background: url(../images/info.gif) left center no-repeat;
+}
+
+.dotted_border
+{
+	border-bottom: dotted 1px gray;
+	padding: 2px 0px;
+}

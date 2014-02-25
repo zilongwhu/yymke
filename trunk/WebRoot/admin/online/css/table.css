@@ -1,0 +1,20 @@
+table.blue
+{
+	border-collapse:collapse;
+	border: solid 1px #3b97d9;
+}
+
+table.blue tr td,table.blue tr th
+{
+	border: solid 1px #3b97d9;
+}
+
+tr.odd td
+{
+	background-color: #9dfac0;
+}
+
+tr.mouseon td
+{
+	background-color: yellow;
+}
