@@ -1,0 +1,44 @@
+.name
+{
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+	color: blue;
+	margin: 20px 0px 10px 0px;
+}
+
+.location
+{
+	border-bottom: solid 1px gray;
+	margin-bottom: 10px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	font-size: 14px;
+	color: #0066cc;
+}
+
+.main
+{
+	margin:10px 30px;
+}
+
+.features
+{
+	border:solid 1px gray;
+	padding:5px;
+	margin-bottom:20px;
+	background-color:#ffffcc;
+}
+
+.f_h
+{
+	font-size:18px;
+	font-weight:bold;
+}
+
+.f_b
+{
+	font-size:14px;
+	padding-left:20px;
+	color:blue;
+}

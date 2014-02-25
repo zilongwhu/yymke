@@ -1,0 +1,36 @@
+a:link
+{
+	color: blue;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: blue;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: red;
+	text-decoration: underline;
+}
+
+a:active
+{
+	color: red;
+	text-decoration: underline;
+}
+
+body,table,input,select
+{
+	font-size: 12px;
+	font-family: Arial,Helvetica,FreeSans,"Luxi-sans","Nimbus Sans L",sans-serif;
+}
+
+div, form, img
+{
+	border: 0 none;
+	margin: 0;
+	padding: 0;
+}
