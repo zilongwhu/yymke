@@ -1,0 +1,14 @@
+.feedback,.feedback_wrong,.feedback_right
+{
+	padding-right: 16px;
+}
+
+.feedback_right
+{
+	background: url(../../images/right.gif) right center no-repeat;
+}
+
+.feedback_wrong
+{
+	background: url(../../images/wrong.gif) right center no-repeat;
+}

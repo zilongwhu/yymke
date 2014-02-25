@@ -1,0 +1,46 @@
+a:link
+{
+	color: blue;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: blue;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: red;
+	text-decoration: underline;
+}
+
+a:active
+{
+	color: red;
+	text-decoration: underline;
+}
+
+body
+{
+	font-size: 12px;
+	background-color: #eef7ff;
+}
+
+body,table,form,input
+{
+	font-size: 12px;
+}
+
+body,div,table,form
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+.text_input
+{
+	width: 100px;
+	border: solid 1px #3b97d9;
+}

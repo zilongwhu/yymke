@@ -1,0 +1,59 @@
+body
+{
+	text-align: center;
+	width: 660px;
+}
+
+.top_div
+{
+	margin: 0px auto;
+	width: 600px;
+	text-align: left;
+}
+
+.product
+{
+	margin: 4px;
+	padding: 1px;
+	display: block;
+	width: 135px;
+	*width: 137px;
+	overflow-x: hidden;
+	border: solid 1px black;
+}
+
+.product_img
+{
+	border: solid 1px gray;
+	padding: 2px;
+	padding-bottom: 0px;
+	margin: 2px;
+	width: 125px;
+	*width: 131px;
+}
+
+.product_name
+{
+	margin: 3px 0px;
+	text-align: center;
+}
+
+.product_operations
+{
+	margin: 2px 5px;
+	text-align: right;
+}
+
+.dotted_border
+{
+	border-bottom: dotted 1px gray;
+	padding: 2px 0px;
+}
+
+.introduction
+{
+	padding-left: 20px;
+	padding-top: 2px;
+	margin-left: 5px;
+	background: url(../images/info.gif) left center no-repeat;
+}

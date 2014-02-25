@@ -1,0 +1,40 @@
+
+body
+{
+	text-align: center;
+	width: 660px;
+}
+
+.top_div
+{
+	margin: 0px auto;
+	width: 640px;
+	text-align: left;
+}
+
+.text_input_big
+{
+	width: 300px;
+	border: solid 1px #3b97d9;
+}
+
+.parent_a,.child_a
+{
+	margin-left: 15px;
+	padding-left: 25px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.parent_a
+{
+	background: url(../images/parent-type.gif) left center no-repeat;
+}
+.child_a
+{
+	background: url(../images/child-type.gif) left bottom no-repeat;
+}
+
+.header
+{
+	color:blue;font-weight:bold;
+}

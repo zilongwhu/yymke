@@ -1,0 +1,22 @@
+body
+{
+	text-align: center;
+	width: 660px;
+}
+
+.top_div
+{
+	margin: 0px auto;
+	width: 450px;
+	text-align: left;
+}
+
+.authority
+{
+	padding-left: 20px;
+	width: 420px;
+}
+.authority_h
+{
+	color: blue;
+}
