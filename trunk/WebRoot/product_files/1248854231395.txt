@@ -1,0 +1,169 @@
+<h2 style="margin: 0cm 0cm 0pt; text-align: center;"><span lang="EN-US"><font size="3">External dimension diagram</font></span></h2>
+<p style="text-align: center;"><img height="172" width="412" src="/products/image/Lifting%20magnet/GLMA-440%20series%20rectifying%20control%20equipment/1.jpg" alt="" /></p>
+<p style="text-align: center;"><strong>&nbsp;<span lang="EN-US"><font size="3">Main specifications</font></span></strong>&nbsp;</p>
+<h2 style="margin: 0cm 0cm 0pt; text-align: center;"><span lang="EN-US"> </span></h2>
+<h2 align="center" style="margin: 0cm 0cm 0pt;"><span lang="EN-US">
+<table cellspacing="0" cellpadding="0" border="1" align="center" style="border: medium none ; border-collapse: collapse;">
+    <tbody>
+        <tr style="height: 29.9pt;">
+            <td width="84" style="border: 0.5pt solid windowtext; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 63pt; height: 29.9pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" rowspan="2">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 10pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">specifications<o:p></o:p></span></p>
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 10pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">&nbsp;<o:p></o:p></span></p>
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 10pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">model<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext rgb(236, 233, 216); border-width: 0.5pt 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 36pt; height: 29.9pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" rowspan="2">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 10pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">Input <o:p></o:p></span></p>
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 10pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">AC voltage<o:p></o:p></span></p>
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 10pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">(v)<o:p></o:p></span></p>
+            </td>
+            <td width="46" style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext rgb(236, 233, 216); border-width: 0.5pt 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 34.7pt; height: 29.9pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" rowspan="2">
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">Output <o:p></o:p></font></span></p>
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">DC voltage<o:p></o:p></font></span></p>
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">&nbsp; (v)<o:p></o:p></font></span></p>
+            </td>
+            <td width="38" style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext rgb(236, 233, 216); border-width: 0.5pt 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 28.3pt; height: 29.9pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" rowspan="2">
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">Rated output current<o:p></o:p></font></span></p>
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">&nbsp; (A)<o:p></o:p></font></span></p>
+            </td>
+            <td width="192" style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext rgb(236, 233, 216); border-width: 0.5pt 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 144pt; height: 29.9pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" colspan="6">
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">External &amp; installation dimension<o:p></o:p></font></span></p>
+            </td>
+            <td width="108" style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext rgb(236, 233, 216); border-width: 0.5pt 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 81pt; height: 29.9pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" colspan="2">
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">&nbsp;&nbsp; Complement</font></span></p>
+            </td>
+        </tr>
+        <tr style="height: 15.55pt;">
+            <td width="24" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 18pt; height: 15.55pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">&nbsp;W<o:p></o:p></font></span></p>
+            </td>
+            <td width="24" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 18pt; height: 15.55pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">&nbsp;D<o:p></o:p></font></span></p>
+            </td>
+            <td width="36" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 27pt; height: 15.55pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">&nbsp;H<o:p></o:p></font></span></p>
+            </td>
+            <td width="24" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 18pt; height: 15.55pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">&nbsp;X<o:p></o:p></font></span></p>
+            </td>
+            <td width="24" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 18pt; height: 15.55pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">&nbsp;Y<o:p></o:p></font></span></p>
+            </td>
+            <td width="60" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 45pt; height: 15.55pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">Install-<o:p></o:p></font></span></p>
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">ation hole<o:p></o:p></font></span></p>
+            </td>
+            <td width="60" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 45pt; height: 15.55pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">&nbsp; Model<o:p></o:p></font></span></p>
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">description<o:p></o:p></font></span></p>
+            </td>
+            <td width="48" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 36pt; height: 15.55pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 10pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.4pt;"><font size="2">quantity<o:p></o:p></font></span></p>
+            </td>
+        </tr>
+        <tr style="height: 8.5pt;">
+            <td width="84" style="border-style: none solid solid; border-color: rgb(236, 233, 216) windowtext windowtext; border-width: medium 0.5pt 0.5pt; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 63pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt; text-indent: 13.2pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">GLMA-15E-C<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 36pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt; text-indent: 13.2pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">360-<o:p></o:p></span></p>
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt; text-indent: 13.2pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">400<o:p></o:p></span></p>
+            </td>
+            <td width="46" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 34.7pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">216-<o:p></o:p></span></p>
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">240<o:p></o:p></span></p>
+            </td>
+            <td width="38" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 28.3pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p style="border: medium none ; margin: 0cm 0cm 0pt; line-height: 13pt;" class="MsoHeader"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt;"><font size="2">&nbsp; 68<o:p></o:p></font></span></p>
+            </td>
+            <td width="24" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 18pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">600<o:p></o:p></span></p>
+            </td>
+            <td width="24" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 18pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">400<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 27pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">1040<o:p></o:p></span></p>
+            </td>
+            <td width="24" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 18pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">535<o:p></o:p></span></p>
+            </td>
+            <td width="24" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 18pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">300<o:p></o:p></span></p>
+            </td>
+            <td width="60" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 45pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" rowspan="3">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">4-&phi;12<o:p></o:p></span></p>
+            </td>
+            <td width="60" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 45pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" rowspan="3">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">&nbsp;DCM0.5-1<o:p></o:p></span></p>
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">&nbsp;Controller<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 36pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" rowspan="3">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">1<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style="height: 8.5pt;">
+            <td width="84" style="border-style: none solid solid; border-color: rgb(236, 233, 216) windowtext windowtext; border-width: medium 0.5pt 0.5pt; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 63pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt; text-indent: 13.2pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">GLMA-19E-C<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 36pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt; text-indent: 13.2pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">360-<o:p></o:p></span></p>
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt; text-indent: 13.2pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">400<o:p></o:p></span></p>
+            </td>
+            <td width="46" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 34.7pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">216-<o:p></o:p></span></p>
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">240<o:p></o:p></span></p>
+            </td>
+            <td width="38" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 28.3pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">&nbsp;86<o:p></o:p></span></p>
+            </td>
+            <td width="24" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 18pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">600<o:p></o:p></span></p>
+            </td>
+            <td width="24" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 18pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">400<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 27pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">1040<o:p></o:p></span></p>
+            </td>
+            <td width="24" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 18pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">535<o:p></o:p></span></p>
+            </td>
+            <td width="24" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 18pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">300<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style="height: 8.5pt;">
+            <td width="84" style="border-style: none solid solid; border-color: rgb(236, 233, 216) windowtext windowtext; border-width: medium 0.5pt 0.5pt; padding: 0cm 1.4pt; background: rgb(204, 255, 255) none repeat scroll 0% 0%; width: 63pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt; text-indent: 13.2pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">GLMA-25E-C<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 36pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt; text-indent: 13.2pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">360-<o:p></o:p></span></p>
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt; text-indent: 13.2pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">400<o:p></o:p></span></p>
+            </td>
+            <td width="46" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 34.7pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">216-<o:p></o:p></span></p>
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">240<o:p></o:p></span></p>
+            </td>
+            <td width="38" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 28.3pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">&nbsp;113<o:p></o:p></span></p>
+            </td>
+            <td width="24" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 18pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">700<o:p></o:p></span></p>
+            </td>
+            <td width="24" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 18pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">400<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 27pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">1110<o:p></o:p></span></p>
+            </td>
+            <td width="24" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 18pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">635<o:p></o:p></span></p>
+            </td>
+            <td width="24" style="border-style: none solid solid none; border-color: rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 216); border-width: medium 0.5pt 0.5pt medium; padding: 0cm 1.4pt; background: rgb(255, 255, 204) none repeat scroll 0% 0%; width: 18pt; height: 8.5pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+            <p align="center" style="margin: 0cm 0cm 0pt; text-align: center; line-height: 13pt;" class="MsoNormal"><span lang="EN-US" style="font-family: 宋体; letter-spacing: -0.3pt; font-size: 9pt;">300<o:p></o:p></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</span></h2>
+<p style="text-align: center;">&nbsp;</p>

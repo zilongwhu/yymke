@@ -1,0 +1,90 @@
+<div style="text-align: center;"><img height="203" width="688" alt="" src="/products/image/Permanent%20magnetic%20lifter/YX3%20series.gif" /></div>
+<div style="text-align: center;">&nbsp;<span style="font-size: 18px;"><strong><br />
+Model, specificaitons and external dimensions:</strong></span><br />
+<span style="font-size: 7px;">.</span><br />
+<style type="text/css">table td{border: solid 1px black; font-size:12px;}</style>
+<table width="690" cellspacing="0" cellpadding="0" border="0" align="center" style="border: 1px solid black; border-collapse: collapse;">
+    <tbody>
+        <tr>
+            <td bgcolor="#eaf6fd" rowspan="2" style="text-align: center;"><span style="font-size: 12px;"><strong>Model\Data</strong></span></td>
+            <td bgcolor="#eaf6fd" rowspan="2" style="text-align: center;"><span style="font-size: 12px;"><strong>Lifting <br />
+            Capacity</strong></span>(kg)</td>
+            <td bgcolor="#eaf6fd" rowspan="2" style="text-align: center;"><span style="font-size: 12px;"><strong>Min.Unloading <br />
+            Capacity</strong></span>(kg)</td>
+            <td bgcolor="#eaf6fd" rowspan="2" style="text-align: center;"><span style="font-size: 12px;"><strong>Min.Unloading <br />
+            plate Thickness</strong></span></td>
+            <td bgcolor="#eaf6fd" rowspan="2" style="text-align: center;"><span style="font-size: 12px;"><strong>Min.Holding <br />
+            Matenial Contour</strong></span></td>
+            <td bgcolor="#eaf6fd" colspan="5" style="text-align: center;"><span style="font-size: 12px;"><strong>Overall Dimension</strong></span>(mm)</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;" rowspan="2"><span style="font-size: 12px;"><strong>Mass</strong></span>(kg)</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;">A</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">a</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">B</td>
+            <td bgcolor="#eaf6fd" colspan="2" style="text-align: center;">H</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;"><span style="font-size: 14px;">YX3-0.5</span></td>
+            <td style="text-align: center;">&nbsp;500</td>
+            <td style="text-align: center;">&nbsp;50</td>
+            <td style="text-align: center;">4</td>
+            <td style="text-align: center;">716&times;196</td>
+            <td style="text-align: center;">&nbsp;716</td>
+            <td style="text-align: center;">&nbsp;620</td>
+            <td style="text-align: center;">&nbsp;196</td>
+            <td colspan="2" style="text-align: center;">&nbsp;460</td>
+            <td style="text-align: center;">120</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;">YX3-1</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;1000</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">100</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">5</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">824&times;256</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;824</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;586</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;256</td>
+            <td bgcolor="#eaf6fd" colspan="2" style="text-align: center;">&nbsp;570</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">240</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;"><span style="font-size: 14px;">YX3-2</span></td>
+            <td style="text-align: center;">2000</td>
+            <td style="text-align: center;">&nbsp;200</td>
+            <td style="text-align: center;">8</td>
+            <td style="text-align: center;">960&times;376</td>
+            <td style="text-align: center;">&nbsp;960</td>
+            <td style="text-align: center;">&nbsp;848</td>
+            <td style="text-align: center;">&nbsp;376</td>
+            <td colspan="2" style="text-align: center;">&nbsp;600</td>
+            <td style="text-align: center;">320</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;">YX2-3</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">3000</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;300</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">12</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">960&times;406</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;960</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;848</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;406</td>
+            <td bgcolor="#eaf6fd" colspan="2" style="text-align: center;">&nbsp;680</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">420</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;"><span style="font-size: 14px;">YX2-5</span></td>
+            <td style="text-align: center;">5000</td>
+            <td style="text-align: center;">&nbsp;500</td>
+            <td style="text-align: center;">16</td>
+            <td style="text-align: center;">1040&times;406</td>
+            <td style="text-align: center;">&nbsp;1040</td>
+            <td style="text-align: center;">&nbsp;940</td>
+            <td style="text-align: center;">&nbsp;406</td>
+            <td colspan="2" style="text-align: center;">&nbsp;755</td>
+            <td style="text-align: center;">486</td>
+        </tr>
+    </tbody>
+</table>
+<br />
+<img height="228" width="699" src="/products/image/Permanent%20magnetic%20lifter/YX3%20series-2.gif" alt="" /></div>
