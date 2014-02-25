@@ -1,0 +1,18 @@
+<!--page language="java" pageEncoding="UTF-8-->
+<table border="0" cellspacing="0" cellpadding="0" width="800" align="center">
+    <tbody>
+        <tr>
+            <td align="center"><img width="800" height="475" alt="" src="/products/image/Stirrer/Operation%20principle.gif" /></td>
+        </tr>
+        <tr>
+            <td align="left">
+            <p style="text-align: left"><strong><span style="font-size: 14px"><span style="font-family: 'ËÎÌו'">Attentions for application</span></span></strong><br />
+            <span style="font-size: 14px"><span style="font-family: 'ËÎÌו'">&nbsp;&nbsp;&nbsp; 1. Suitable selection of the stirrer type;<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;2. Proper installation of the stirrer;<br />
+            &nbsp;&nbsp;&nbsp; 3.&nbsp;Proper operation specifications and system of the stirrer;<br />
+            &nbsp;&nbsp;&nbsp; 4.&nbsp;It is the important prous for you to get the excellent performance.</span></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p class="p0" style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><span style="font-family: 'ËÎÌו'; font-size: 10.5pt"><o:p></o:p></span>&nbsp;</p>

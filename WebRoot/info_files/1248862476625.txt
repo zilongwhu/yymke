@@ -1,0 +1,25 @@
+<!--page language="java" pageEncoding="UTF-8-->
+<table width="900" cellspacing="0" cellpadding="0" border="0" align="center">
+    <tbody>
+        <tr>
+            <td valign="top">
+            <div style="text-align: left;">&nbsp;</div>
+            <div style="text-align: left;"><strong><font size="3">Working principles by stirring</font></strong></div>
+            <p style="text-align: left;"><span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Induction electromagnetic stirrer<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conductive electromagnetic stirrer<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Permanent electromagnetic stirrer<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At present the induction electromagnetic stirrer is mostly widely used.</span></p>
+            <p style="text-align: left;"><span style="font-size: 14px;"><strong>Working principle by instalation position</strong></span></p>
+            <p style="text-align: left;"><span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crystallizer electromagnetic stirrer (short for M-EMS)<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crystallizer exteriorized electromagnetic stirrer (short for Mo-EMS)<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crystallizer built-in electromagnetic stirrer (short for Mi-EMS)<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under crystallizer (under foot-roller) electromagnetic stirrer (short for I-EMS)<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second colling section electromagnetic stirrer (short for S-EMS)<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Freezing terminal electromagnetic stirrer (short for E-EMS)<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The right picture is the specific installation position</span></p>
+            </td>
+            <td><img height="410" width="340" src="/products/image/Stirrer/Classification%20and%20Installation%20position.gif" alt="" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>

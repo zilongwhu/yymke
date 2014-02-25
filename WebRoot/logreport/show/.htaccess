@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName "logreport"
+AuthUserFile /data/home/zp5041/auth/o8e5z5f1u3h9q3f9h3m1
+<Limit GET POST PUT>
+require user  zp5041
+</Limit>

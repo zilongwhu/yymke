@@ -1,0 +1,110 @@
+<!--page language="java" pageEncoding="UTF-8--><style type="text/css">     table.my { border-collapse:collapse; }     table.my td     {          border: solid 1px black; font-size: 12px;    }</style>
+<table width="800" cellspacing="0" cellpadding="0" border="0" align="center" class="my">
+    <tbody>
+        <tr>
+            <td width="90" bgcolor="#eaf6fd" rowspan="24" style="text-align: center;"><span style="font-size: 14px;">Electromagnetic Stirring Equipment</span></td>
+            <td width="65" rowspan="8" style="text-align: center;"><span style="font-size: 14px;">Crystallizer section</span></td>
+            <td width="70" rowspan="4" style="text-align: center;"><span style="font-size: 14px;">Exteriorized</span></td>
+            <td bgcolor="#eaf6fd" style="border-right: 0px none; padding: 0px 10px;">ACSY-MA type 3-phase LF pure water outer cooling sintered wire, the shell can be taken down</td>
+            <td valign="middle" bgcolor="#eaf6fd" align="right" style="border-left: 0px none;"><img height="60" width="73" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/1.gif" /></td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="border-right: 0px none; padding: 0px 10px;">AAY-MB type 3-phase LF pure water inner cooling hollow lead, special winding</td>
+            <td valign="middle" bgcolor="#eaf6fd" align="right" style="border-left: 0px none;"><img height="60" width="74" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/2.gif" /></td>
+        </tr>
+        <tr>
+            <td style="border-right: 0px none; padding: 0px 10px;">ANY-MD type 2-phase LF&nbsp;pure water inner cooling min.energy consumption, the shell can be taken down</td>
+            <td valign="middle" align="right" style="border-left: 0px none;"><img height="60" width="73" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/3.gif" /></td>
+        </tr>
+        <tr>
+            <td style="border-right: 0px none; padding: 0px 10px;">ADRY-MC type 3-phase LF rectangular sintered wire soft pure water outer cooling</td>
+            <td valign="middle" align="right" style="border-left: 0px none;"><img height="60" width="107" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/4.gif" /></td>
+        </tr>
+        <tr>
+            <td rowspan="4" style="text-align: center;"><span style="font-size: 14px;">Built-in</span></td>
+            <td bgcolor="#eaf6fd" style="border-right: 0px none; padding: 0px 10px;">ARR-MA type LF soft water outer cooling, rectangular sintered wire</td>
+            <td valign="middle" bgcolor="#eaf6fd" align="right" style="border-left: 0px none;"><img height="60" width="68" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/5.gif" /></td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="border-right: 0px none; padding: 0px 10px;">ARR-MB type LF pure water inner cooling, the shell can be taken down</td>
+            <td valign="middle" bgcolor="#eaf6fd" align="right" style="border-left: 0px none;"><img height="60" width="79" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/6.gif" /></td>
+        </tr>
+        <tr>
+            <td style="border-right: 0px none; padding: 0px 10px;">AAR-MC type 2-phase LF&nbsp;module type soft pure water outer cooling, the shell can be taken down</td>
+            <td valign="middle" align="right" style="border-left: 0px none;"><img height="60" width="88" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/7.gif" /></td>
+        </tr>
+        <tr>
+            <td style="border-right: 0px none; padding: 0px 10px;">AJR-MC type 2-phase LF sintered round wire pure water outer cooling, the shell can be taken down</td>
+            <td valign="middle" align="right" style="border-left: 0px none;"><img height="60" width="70" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/8.gif" /></td>
+        </tr>
+        <tr>
+            <td rowspan="3" colspan="2" style="text-align: center;"><span style="font-size: 14px;">Under Crystallizer</span></td>
+            <td bgcolor="#eaf6fd" style="border-right: 0px none; padding: 0px 10px;">AZQ-1B type WF sintered wire pure water outer cooling, the shell can be taken down</td>
+            <td valign="middle" bgcolor="#eaf6fd" align="right" style="border-left: 0px none;"><img height="60" width="73" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/9.gif" /></td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="border-right: 0px none; padding: 0px 10px;">AZQ-1B type 2-phase WF hollow lead pure water inner cooling, the shell can be taken down</td>
+            <td valign="middle" bgcolor="#eaf6fd" align="right" style="border-left: 0px none;"><img height="60" width="76" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/10.gif" /></td>
+        </tr>
+        <tr>
+            <td style="border-right: 0px none; padding: 0px 10px;">AAEX-1A 3-phase sintered wire soft pure water outer cooling</td>
+            <td valign="middle" align="right" style="border-left: 0px none;"><img height="60" width="82" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/11.gif" /></td>
+        </tr>
+        <tr>
+            <td rowspan="4" colspan="2" style="text-align: center;"><span style="font-size: 14px;">Freezing Terminal</span></td>
+            <td style="border-right: 0px none; padding: 0px 10px;">AJO-FA type 3-phase LF sintered round wire pure water outer cooling, long magnetic pole, the shell can be taken down</td>
+            <td valign="middle" align="right" style="border-left: 0px none;"><img height="60" width="62" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/12.gif" /></td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="border-right: 0px none; padding: 0px 10px;">ATZ-FB type 3-phase LF sintered rectangular wire pure water outer cooling, the magnetic strength more than 1000Gs, the shell can be taken down</td>
+            <td valign="middle" bgcolor="#eaf6fd" align="right" style="border-left: 0px none;"><img height="60" width="73" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/13.gif" /></td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="border-right: 0px none; padding: 0px 10px;">AAZ-FC type 3-phase LF&nbsp;hollow lead pure water inner cooling, the magnetic pole is shorter</td>
+            <td valign="middle" bgcolor="#eaf6fd" align="right" style="border-left: 0px none;"><img height="60" width="56" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/14.gif" /></td>
+        </tr>
+        <tr>
+            <td style="border-right: 0px none; padding: 0px 10px;">ASE-FD type opposed, 3-phase LF traveling wave magnetic field pure water inner cooling</td>
+            <td valign="middle" align="right" style="border-left: 0px none;"><img height="60" width="89" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/15.gif" /></td>
+        </tr>
+        <tr>
+            <td rowspan="3" colspan="2" style="text-align: center;"><span style="font-size: 14px;">Slab</span></td>
+            <td style="border-right: 0px none; padding: 0px 10px;">BAN-DA type opposed, 3-phase LF hollow lead traveling wave magnetic field pure water inner cooling</td>
+            <td valign="middle" align="right" style="border-left: 0px none;"><img height="60" width="115" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/16.gif" /></td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="border-right: 0px none; padding: 0px 10px;">BAR-GA type opposed roller 2-phase LF traveling wave magnetic field</td>
+            <td valign="middle" bgcolor="#eaf6fd" align="right" style="border-left: 0px none;"><img height="60" width="113" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/17.gif" /></td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="border-right: 0px none; padding: 0px 10px;">BAB-NA type inner arc side, 3-phase LF traveling wave magnetic field pure water inner cooling</td>
+            <td valign="middle" bgcolor="#eaf6fd" align="right" style="border-left: 0px none;"><img height="60" width="100" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/18.gif" /></td>
+        </tr>
+        <tr>
+            <td rowspan="6" colspan="2" style="text-align: center;"><span style="font-size: 14px;">Particular Structure</span></td>
+            <td style="border-right: 0px none; padding: 0px 10px;">AJS-MA type double-coil crystallizer exteriorized, seperate 2 groups of coils, LF power-supply; the upper coil has the function of brake, flexible operation, pure water outer cooling</td>
+            <td valign="middle" align="right" style="border-left: 0px none;"><img height="60" width="75" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/19.gif" /></td>
+        </tr>
+        <tr>
+            <td style="border-right: 0px none; padding: 0px 10px;">AZXA-F/B type 3-phase LF rotation magnetic field, usable for both square billet &amp; slab pure water inner cooling</td>
+            <td valign="middle" align="right" style="border-left: 0px none;"><img height="60" width="75" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/20.gif" /></td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="border-right: 0px none; padding: 0px 10px;">AAM-MA type 4 modules, oil &amp; water section, 2-phase LF energy saving</td>
+            <td valign="middle" bgcolor="#eaf6fd" align="right" style="border-left: 0px none;"><img height="60" width="67" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/21.gif" /></td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="border-right: 0px none; padding: 0px 10px;">AZXA-F/B type 3-phase LF traveling wave, usable for both square billet &amp; slab pure water inner cooling</td>
+            <td valign="middle" bgcolor="#eaf6fd" align="right" style="border-left: 0px none;"><img height="60" width="76" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/22.gif" /></td>
+        </tr>
+        <tr>
+            <td style="border-right: 0px none; padding: 0px 10px;">AJJ-MA type permanent (constant magnetism) mechanic rotation, energy saving (150 rps 15kw); also has the function of microseism, less investment and good performance</td>
+            <td valign="middle" align="right" style="border-left: 0px none;"><img height="60" width="69" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/23.gif" /></td>
+        </tr>
+        <tr>
+            <td style="border-right: 0px none; padding: 0px 10px;">AEB-MA type WF electricity conductive plate crystallizer, low consumption and cost saving</td>
+            <td valign="middle" align="right" style="border-left: 0px none;"><img height="60" width="84" alt="" src="/products/image/Stirrer/List%20of%20optional%20electromagnetic%20stirrer/24.gif" /></td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="font-size: 14px;">&nbsp;</span></p>
