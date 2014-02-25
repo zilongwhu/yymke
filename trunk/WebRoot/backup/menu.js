@@ -1,0 +1,17 @@
+stm_bm(["menu4d8f",830,"","blank.gif",0,"","",0,0,0,0,50,1,0,0,"","",0,0,1,1,"default","hand",""],this);
+stm_bp("p0",[0,4,0,0,0,4,0,16,100,"",-2,"",-2,90,0,0,"#999999","transparent","",3,0,0,"#E6FAB4 #788C32 #788C32 #E6FAB4"]);
+stm_ai("p0i0",[1,"首页<img src=\"images/arrow.gif\" border=\"0\" align=\"absmiddle\" />","","",-1,-1,0,"index.jsp","_self","","","","",0,0,0,"","",0,0,0,1,1,"#9cc2c9",1,"#9cc2c9",1,"","",3,3,0,0,"#BEE6F0 #64878C #64878C #BEE6F0","#64878C #BEE6F0 #BEE6F0 #64878C","#000000","#333366","bold 13px '宋体','新宋体'","bold 13px '宋体','新宋体'",0,0],60,20);
+stm_aix("p0i1","p0i0",[1,"公司简介<img src=\"images/arrow.gif\" border=\"0\" align=\"absmiddle\" />","","",-1,-1,0,"company.jsp"],90,20);
+stm_aix("p0i2","p0i0",[1,"公司新闻<img src=\"images/arrow.gif\" border=\"0\" align=\"absmiddle\" />","","",-1,-1,0,"news.jsp"],80,20);
+stm_aix("p0i3","p0i0",[1,"主营产品","","",-1,-1,0,"product.jsp","_self","","","","",0,0,0,"0604scroll2ldlalr.gif","0604scroll2ldlalr.gif",16,9,0,1,1,"#9cc2c9",1,"#9cc2c9",1,"","",3,3,0,0,"#BEE6F0 #64878C #64878C #BEE6F0","#64878C #BEE6F0 #BEE6F0 #64878C","#000000","#333366","bold 13px '宋体','新宋体'","bold 8pt Arial"],90,20);
+stm_bp("p1",[1,4,0,0,0,4,0,0,100,"",-2,"",-2,58,0,0,"#999999","transparent","",3,0,0,"#000000"]);
+stm_aix("p1i0","p0i0",[0,"起重电磁铁及电控","","",-1,-1,0,"product.jsp?id=1","_self","","","","",0,0,0,"","",0,0,0,0,1,"#e6e6e6",0,"#e6e6e6",0,"","",3,3,1,1,"#FFFFFF #A0A0A0 #A0A0A0 #FFFFFF","#A0A0A0 #FFFFFF #FFFFFF #A0A0A0","#4B4B4B","#000000","8pt Arial","8pt Arial"],120,20);
+stm_aix("p1i1","p1i0",[0,"除铁器及电控","","",-1,-1,0,"product.jsp?id=8"],120,20);
+stm_aix("p1i2","p1i0",[0,"电缆卷筒","","",-1,-1,0,"product.jsp?id=9"],120,20);
+stm_aix("p1i3","p1i0",[0,"连铸电磁搅拌装置","","",-1,-1,0,"product.jsp?id=70"],120,0);
+stm_ep();
+stm_aix("p0i4","p0i2",[1,"生产设备<img src=\"images/arrow.gif\" border=\"0\" align=\"absmiddle\" />","","",-1,-1,0,"equipment.jsp"],80,20);
+stm_aix("p0i5","p0i0",[1,"代理商专栏<img src=\"images/arrow.gif\" border=\"0\" align=\"absmiddle\" />","","",-1,-1,0,"agent.jsp"],80,20);
+stm_aix("p0i6","p0i0",[1,"联系我们<img src=\"images/arrow.gif\" border=\"0\" align=\"absmiddle\" />","","",-1,-1,0,"lxwm.jsp"],0,20);
+stm_ep();
+stm_em();

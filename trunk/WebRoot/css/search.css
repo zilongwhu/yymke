@@ -1,0 +1,26 @@
+body
+{
+	background-color: #f3f3f3;
+}
+.product_name
+{
+	overflow: hidden;
+	white-space: nowrap;
+	padding: 5px 5px 0px 5px;
+	color: blue;
+	width: 288px;
+	*width: 298px;
+}
+.product_features
+{
+	height: 110px;
+	overflow: hidden;
+	padding: 0px 5px;
+}
+.product_abstract
+{
+	background-color: #fffbd1;
+	border-top: solid 1px gray;
+	text-align: right;
+	padding:2px 5px;
+}

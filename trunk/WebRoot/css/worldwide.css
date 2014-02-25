@@ -1,0 +1,31 @@
+body
+{
+	margin: 10px;
+	padding: 0px;
+	text-align: center;
+	background-color: #f3f3f3;
+}
+
+.fix_auto
+{
+	margin: 0px auto;
+	text-align: left;
+	width: 616px;
+}
+
+table.blue
+{
+	border-collapse:collapse;
+	border: solid 1px #3b97d9;
+}
+
+table.blue tr td,table.blue tr th
+{
+	border: solid 1px #3b97d9;
+}
+
+table.blue tr th
+{
+	background-color: #e4eeff;
+	height: 30px;
+}
