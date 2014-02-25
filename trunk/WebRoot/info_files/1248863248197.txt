@@ -1,0 +1,306 @@
+<style type="text/css">   table td   {        border:solid 1px black;  font-size:12px; }</style>
+<table width="1000" cellspacing="0" cellpadding="0" border="0" align="center" style="border: 1px solid black; border-collapse: collapse;">
+    <tbody>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><strong><span style="font-size: 14px;">Installation <br />
+            Position</span></strong></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;"><strong>Model</strong></span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;"><strong>MF Modes</strong></span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;"><strong>Casting blank <br />
+            fracture</strong></span>(<span lang="EN-US" style="font-size: 12pt;"><span lang="EN-US" style="font-size: 7.5pt;">mm<sup>2</sup></span></span>)</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;"><strong>Capacity<br />
+            </strong></span>(KAV)</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;"><strong>Current<br />
+            </strong></span>(A)</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;"><strong>Cooling Method</strong></span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;"><strong>Frequency<br />
+            </strong></span>(Hz)</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;"><strong>Overall dimension<br />
+            </strong></span>(mm)</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;"><strong>Weight</strong></span><br />
+            (kg)</td>
+        </tr>
+        <tr>
+            <td rowspan="7">
+            <div style="text-align: center;"><span style="font-size: 13px;">Crystallizer</span></div>
+            <div style="text-align: center;"><span style="font-size: 13px;">built-in</span></div>
+            </td>
+            <td style="text-align: center;">DJMR-260N</td>
+            <td style="text-align: center;">Rotary MF</td>
+            <td style="text-align: center;">130&times;130</td>
+            <td style="text-align: center;">118</td>
+            <td style="text-align: center;">300</td>
+            <td style="text-align: center;" rowspan="13">Direct cooling by <br />
+            outer water</td>
+            <td style="text-align: center;">3-10</td>
+            <td style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">440&times;370</span></td>
+            <td style="text-align: center;">160</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;">DJMR-310N</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">Rotary MF</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">150&times;150</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">135</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">300</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">3-11</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">580&times;500</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">300</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">DJMR-320N</td>
+            <td style="text-align: center;">Rotary MF</td>
+            <td style="text-align: center;">160&times;160</td>
+            <td style="text-align: center;">130</td>
+            <td style="text-align: center;">250</td>
+            <td style="text-align: center;">3-12</td>
+            <td style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">670&times;476</span></td>
+            <td style="text-align: center;">320</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;">DJMR-380N</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">Rotary MF</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">200&times;200</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">150</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">350</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">3-12</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">66</span><span style="font-size: 12px;">0&times;400</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">360</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">DJMR-410N</td>
+            <td style="text-align: center;">Rotary MF</td>
+            <td style="text-align: center;">220&times;220</td>
+            <td style="text-align: center;">180</td>
+            <td style="text-align: center;">400</td>
+            <td style="text-align: center;">3-12</td>
+            <td style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">66</span><span style="font-size: 12px;">0&times;400</span></td>
+            <td style="text-align: center;">360</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;">DJMR-450N</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">Rotary MF</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">250&times;250</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">220</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">400</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">3-12</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">700&times;420</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">400</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">DJMR-550N</td>
+            <td style="text-align: center;">Rotary MF</td>
+            <td style="text-align: center;">280&times;320</td>
+            <td style="text-align: center;">260</td>
+            <td style="text-align: center;">500</td>
+            <td style="text-align: center;">2-10</td>
+            <td style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">820&times;420</span></td>
+            <td style="text-align: center;">540</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;" rowspan="10"><span style="font-size: 13px;">Crystallizer<br />
+            exteriorized</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">DJMR-470W</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">Rotary MF</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">130&times;130</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">260</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">300</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">2-10</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">730&times;510</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">628</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">DJMR-480W</td>
+            <td style="text-align: center;">Rotary MF</td>
+            <td style="text-align: center;">150&times;150</td>
+            <td style="text-align: center;">280</td>
+            <td style="text-align: center;">500</td>
+            <td style="text-align: center;">3-12</td>
+            <td style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">830&times;530</span></td>
+            <td style="text-align: center;">880</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;">DJMR-530W</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">Rotary MF</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">180&times;220</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">300</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">500</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">2-10</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">880&times;480</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">980</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">DJMR-610W</td>
+            <td style="text-align: center;">Rotary MF</td>
+            <td style="text-align: center;">240&times;240</td>
+            <td style="text-align: center;">320</td>
+            <td style="text-align: center;">500</td>
+            <td style="text-align: center;">2-10</td>
+            <td style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">920&times;450</span></td>
+            <td style="text-align: center;">850</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;">DJMR-700W</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">Rotary MF</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">310&times;310</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">350</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">550</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">1-9</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">1010&times;560</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">1200</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">DJMR-830W</td>
+            <td style="text-align: center;">Rotary MF</td>
+            <td style="text-align: center;">280&times;380</td>
+            <td style="text-align: center;">400</td>
+            <td style="text-align: center;">600</td>
+            <td style="text-align: center;">1-9</td>
+            <td style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">1270&times;680</span></td>
+            <td style="text-align: center;">1800</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;">DJMR-480W</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">Rotary MF</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">200&times;200</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">200</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">360</td>
+            <td style="text-align: center;" rowspan="7">Inner cooling by <br />
+            pure water</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">2-12</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">830&times;350</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">680</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">DJMR-540W</td>
+            <td style="text-align: center;">Rotary MF</td>
+            <td style="text-align: center;">220&times;220</td>
+            <td style="text-align: center;">240</td>
+            <td style="text-align: center;">360</td>
+            <td style="text-align: center;">2-10</td>
+            <td style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">900&times;480</span></td>
+            <td style="text-align: center;">850</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;">DJMR-670W</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">Rotary MF</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">250&times;280</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">260</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">360</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">1-9</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">1120&times;470</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">110</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">DJMR-830W</td>
+            <td style="text-align: center;">Rotary MF</td>
+            <td style="text-align: center;">280&times;380</td>
+            <td style="text-align: center;">350</td>
+            <td style="text-align: center;">550</td>
+            <td style="text-align: center;">1-9</td>
+            <td style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">1240&times;500</span></td>
+            <td style="text-align: center;">1600</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;" rowspan="5"><span style="font-size: 13px;">Second cooling<br />
+            section</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">DJMR-17025</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">Traveling wave MF</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">1700&times;250</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">250&times;2</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">680&times;2</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">6-20</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">1610&times;600</span><span style="font-size: 12px;">&times;500</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">1300<span style="font-size: 12px;">&times;2</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">DJMR-19025</td>
+            <td style="text-align: center;">Traveling wave MF</td>
+            <td style="text-align: center;">1900&times;250</td>
+            <td style="text-align: center;">130&times;2</td>
+            <td style="text-align: center;">700&times;2</td>
+            <td style="text-align: center;">4-10</td>
+            <td style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">1610&times;</span><span style="font-size: 12px;">1610</span><span style="font-size: 12px;">&times;500</span></td>
+            <td style="text-align: center;">1400<span style="font-size: 12px;">&times;2</span></td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;">DJMR-19030</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">Traveling wave MF</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">1900&times;300</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">250&times;2</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">700&times;2</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">4-12</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">1610&times;</span><span style="font-size: 12px;">1610</span><span style="font-size: 12px;">&times;500</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">1500<span style="font-size: 12px;">&times;2</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">DJMR-2828</td>
+            <td style="text-align: center;">Traveling wave MF</td>
+            <td style="text-align: center;">280&times;280</td>
+            <td style="text-align: center;">430</td>
+            <td style="text-align: center;">1000</td>
+            <td style="text-align: center;">&nbsp;Direct cooling by <br />
+            outer water</td>
+            <td style="text-align: center;">50</td>
+            <td style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">1610&times;</span><span style="font-size: 12px;">624</span><span style="font-size: 12px;">&times;563</span></td>
+            <td style="text-align: center;">630</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;">DJMR-2020</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">Traveling wave MF</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">200&times;200</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">130</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;180</td>
+            <td style="text-align: center;" rowspan="2">Second cooling by <br />
+            water</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">50</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">760</span><span style="font-size: 12px;">&times;600</span><span style="font-size: 12px;">&times;340</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">450</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;" rowspan="4"><span style="font-size: 13px;">Freezing <br />
+            terminal</span></td>
+            <td style="text-align: center;">DJMR-2020</td>
+            <td style="text-align: center;">组合旋转</td>
+            <td style="text-align: center;">200&times;200</td>
+            <td style="text-align: center;">150&times;2</td>
+            <td style="text-align: center;">230&times;2</td>
+            <td style="text-align: center;">50</td>
+            <td style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">5</span><span style="font-size: 12px;">30&times;520</span><span style="font-size: 12px;">&times;500</span></td>
+            <td style="text-align: center;">250<span style="font-size: 12px;">&times;2</span></td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;">DJMR-380C</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">Rotary MF</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">200&times;200</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">260</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">300</td>
+            <td style="text-align: center;" rowspan="3">Inner cooling by <br />
+            pure water</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">6-12</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">780&times;520</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">678</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">DJMR-380C</td>
+            <td style="text-align: center;">Rotary MF</td>
+            <td style="text-align: center;">220&times;220</td>
+            <td style="text-align: center;">260</td>
+            <td style="text-align: center;">300</td>
+            <td style="text-align: center;">6-12</td>
+            <td style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">730&times;550</span></td>
+            <td style="text-align: center;">720</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;">DJMR-450C</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">Rotary MF</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">250&times;280</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">300</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">350</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">6-12</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span lang="EN-US" style="font-family: 宋体; font-size: 9pt;">&phi;</span><span style="font-size: 12px;">820&times;550</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">930</td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: center;"><span style="font-size: 12px;">Note: the above figures may be changable different types or stirrers of special requirments of the customer.</span></div>
+<p style="margin-bottom: 0pt; margin-top: 0pt;" class="p0"><span style="font-size: 10.5pt; font-family: '宋体';"><o:p></o:p></span></p>

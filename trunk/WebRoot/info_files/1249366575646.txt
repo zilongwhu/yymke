@@ -1,0 +1,31 @@
+<table width="1000" cellspacing="0" cellpadding="0" border="0" align="center">
+    <tbody>
+        <tr>
+            <td><font size="3">It is composed of the stirrer-inductor, frequency conversion and controlling system, circulatin water cooling system and special power-supply transformer.</font>
+            <p><strong><span style="font-size: 14px;">1. Stirrer body</span></strong></p>
+            <p><span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Construction for the magnetic pole</span><br />
+            <span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Square billet----3-phase 2-pole or 2-phase 2-ple(6 or 4-pole)<br />
+            </span><span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mode of the magnetic field</span><br />
+            <span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Square billet----mostly is rotation magnetic field, some is traveling wave magnetic field( 4sides work down, the center works upwards, with brake function), and spiral magnetic field.</span><br />
+            <span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But the spiral magnetic field has not been applied in the production because of the technological difficulties.</span><br />
+            <span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coil</span><br />
+            <span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is divided into solid sintered pellicle lead and hollow lead, the former is better for manufacturing, maintenance and cooling, while the latter is more advantageous in large power, high voltage, service life and consumption of cooling water.</span><br />
+            <span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Working frequency</span><br />
+            <span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crystallizer electromagnetic stirrer----2.5-6 Hz</span><br />
+            <span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second cooling section (incl.craystallizer) electromagnetic stirrer 30~60 Hz</span><br />
+            <span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Freezing terminal----3-15 Hz</span><br />
+            <span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Material of the shell</span><br />
+            <span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Austenite stainless stell</span></p>
+            <p><strong><span style="font-size: 14px;">2. Frequency conversion &amp; contrlling system</span></strong></p>
+            <p><strong><span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><span style="font-size: 14px;">The LF power-supply of 2 or 3 phase both adopts the frequency conversion mode of AC-DC-AC, high carring frequeng SPWM modulation, intelligent power module contravariant, and bridge sine wave output. Each set of stirrer is equipped complete and has the controlling &amp; inspecting functions of the current, voltage, frequency, water temperature, water volume, coil insulation and balance check.<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We can supply all kinds of products of domestic model according to the customer's requirements, or the assembling type of imported transforming frequency conversion(VVVF).</span></p>
+            <p><strong><span style="font-size: 14px;">3. Circulation system of water cooling</span></strong></p>
+            <p><span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The heat source is mainly from the ambient temperature conducted by the coil, iron core and radiatin. The water flow, area of heat exchange should be 20% more than the calculation value. The quality of water requires that all the conductivity, content of germ, PH value, ferro oxide, content of CaCo3 and size of particle thickness should be within the allowable value, so that it can assure normal operation( this item can be supplied by the user).</span></p>
+            <p><strong><span style="font-size: 14px;">4. Power-supply transformer</span></strong></p>
+            <p><span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A group of electromagnetic stirrer(multi-units) can be shared with 1 unit of power-supply transformer. To assure safe production, we offer the special kind of transformer with isolation treatment. The selection of its capacity is generally 125% of the actual consumption power(this item can be supplied by the user).</span></p>
+            </td>
+            <td><img height="706" width="300" alt="" src="/products/image/Stirrer/Dispose%20and%20basic%20requirements%20of%20the%20complex%20equipment.gif" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>

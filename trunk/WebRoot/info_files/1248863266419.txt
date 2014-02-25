@@ -1,0 +1,119 @@
+<style type="text/css">table td{border:solid 1px black; font-size: 12px;}</style>
+<table border="0" cellspacing="0" cellpadding="0" width="800" align="center" style="border-bottom: black 1px solid; border-left: black 1px solid; border-collapse: collapse; border-top: black 1px solid; border-right: black 1px solid">
+    <tbody>
+        <tr>
+            <td bgcolor="#eaf6fd" rowspan="2" style="text-align: center"><span style="font-size: 14px"><strong>Model</strong></span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 14px"><strong>QLVF-</strong>¡õ¡õ¡õ<span><strong>-3-A</strong></span></span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 14px"><strong>QLVF-400-3</strong></span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 14px"><strong>QLVF-600-3</strong></span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 14px"><strong>QLVF-800-3</strong></span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 14px"><strong>QLVF-1000-3</strong></span></td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center">Max output current(A)</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">400A</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">600A</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">800A</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">1000A</td>
+        </tr>
+        <tr>
+            <td rowspan="4" style="text-align: center"><span style="font-size: 14px"><strong>Input Current</strong></span></td>
+            <td style="text-align: center"><span style="font-size: 12px">Input voltage(V)</span></td>
+            <td colspan="4" style="text-align: center">3 phase 380V</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 12px">Input frequency(Hz)</span></td>
+            <td bgcolor="#eaf6fd" colspan="4" style="text-align: center">&nbsp;50Hz</td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="font-size: 12px">Voltage allowable <br />
+            functuation range</span></td>
+            <td colspan="4" style="text-align: center">&nbsp;-20%~+10%</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 12px">Frequency allowable <br />
+            functuation range</span></td>
+            <td bgcolor="#eaf6fd" colspan="4" style="text-align: center">&nbsp;46~66Hz</td>
+        </tr>
+        <tr>
+            <td rowspan="3" style="text-align: center"><span style="font-size: 14px"><strong>Output</strong></span></td>
+            <td style="text-align: center">Output voltage(V)</td>
+            <td colspan="4" style="text-align: center">&nbsp;Ranging between 0~380V</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center">Output frequency(Hz)</td>
+            <td bgcolor="#eaf6fd" colspan="4" style="text-align: center">&nbsp;Ranging between 0.5~25Hz</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Output current range</td>
+            <td style="text-align: center">0~400A</td>
+            <td style="text-align: center">0~600A</td>
+            <td style="text-align: center">0~800A</td>
+            <td style="text-align: center">0~1000A</td>
+        </tr>
+        <tr>
+            <td rowspan="4" style="text-align: center"><span style="font-size: 14px"><strong>Control <br />
+            Characterisitic</strong></span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center">Positive stirring <br />
+            given time</td>
+            <td bgcolor="#eaf6fd" colspan="4" style="text-align: center">0.1~125s</td>
+        </tr>
+        <tr>
+            <td>
+            <div style="text-align: center">Opposite stirring</div>
+            <div style="text-align: center">given time</div>
+            </td>
+            <td colspan="4" style="text-align: center">0.1~125s</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center">Stirring idle <br />
+            given time</td>
+            <td bgcolor="#eaf6fd" colspan="4" style="text-align: center">0.1~125s</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Variable intensity <br />
+            percentage</td>
+            <td colspan="4" style="text-align: center">0~100%</td>
+        </tr>
+        <tr>
+            <td rowspan="3" style="text-align: center"><span style="font-size: 14px"><strong>Protection Function</strong></span></td>
+            <td rowspan="2" style="text-align: center">Electrical control<br />
+            system</td>
+            <td bgcolor="#eaf6fd" colspan="4" style="text-align: center">Over voltage protection, under voltage protection, phase fault protection, <br />
+            over current protection.</td>
+        </tr>
+        <tr>
+            <td colspan="4" style="text-align: center">Module over heat protection, IBM protection, <br />
+            three phase unbalanced protection.</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center">Stirrer body</td>
+            <td bgcolor="#eaf6fd" colspan="4" style="text-align: center">Over heat protection, leakage current protection.</td>
+        </tr>
+        <tr>
+            <td rowspan="4" style="text-align: center"><span style="font-size: 14px"><strong>Intergrated Control<br />
+            System</strong></span></td>
+            <td style="text-align: center">Data remote<br />
+            monitoring system</td>
+            <td colspan="4" style="text-align: center">Current, frequency, stirring direction, stirring time, on/off, <br />
+            system operatin status.</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd">&nbsp;</td>
+            <td bgcolor="#eaf6fd" colspan="4" style="text-align: center">Leakage current, water flow, water pressure, water temperature.</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Multi-scenes<br />
+            monitoring</td>
+            <td colspan="4" style="text-align: center">Multi-flow monitored synchronously, running data display, <br />
+            system error consultation, graphic supervision.</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center">Network data</td>
+            <td bgcolor="#eaf6fd" colspan="4" style="text-align: center">Micro-synchronous communication mode and conneeted with interface <br />
+            network mother wiring to realize center control.</td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: center"><span style="font-size: 12px">Note: the above figures may changable different types of stirrers of special requirements of the customer.</span></div>
+<p class="p0" style="margin-top: 0pt; margin-bottom: 0pt"><span style="font-family: 'ËÎÌå'; font-size: 10.5pt"><o:p></o:p></span></p>
