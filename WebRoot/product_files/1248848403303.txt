@@ -1,0 +1,205 @@
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><b><span lang="EN-US" style="font-size: 12pt"><o:p></o:p></span></b>&nbsp;</p>
+<p class="MsoNormal" align="center" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-size: 12pt"><o:p><img border="0" alt="" width="300" height="73" src="/products/image/Lifting%20magnet/Electromagnetic%20roller/1.jpg" /></o:p></span></p>
+<p class="MsoNormal" align="center" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-size: 12pt"><o:p></o:p></span>&nbsp;</p>
+<p class="MsoNormal" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-size: 12pt"><strong>External dimension diagram</strong></span></p>
+<p class="MsoNormal" align="center" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-size: 12pt"><img border="0" alt="" width="312" height="100" src="/products/image/Lifting%20magnet/Electromagnetic%20roller/3.jpg" />&nbsp; </span></p>
+<p class="MsoNormal" align="center" style="margin: 0cm 0cm 0pt">&nbsp;</p>
+<p class="MsoNormal" style="text-align: center; margin: 0cm 0cm 0pt"><strong><span lang="EN-US" style="font-family: 'Times New Roman'; font-size: 12pt">Main specifications(</span><span style="font-family: ����; font-size: 12pt">&le;</span><span lang="EN-US" style="font-family: 'Times New Roman'; font-size: 12pt">350</span><span style="font-family: ����; font-size: 12pt">��</span><span lang="EN-US" style="font-family: 'Times New Roman'; font-size: 12pt"> duty cycle TD-50%)</span></strong></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+    <tbody>
+        <tr>
+            <td align="center"><span lang="EN-US" style="font-family: 'Times New Roman'; font-size: 12pt"><strong>
+            <table border="1" cellspacing="0" cellpadding="0" align="center" style="border-bottom: medium none; border-left: medium none; border-collapse: collapse; border-top: medium none; border-right: medium none">
+                <tbody>
+                    <tr style="height: 8.5pt">
+                        <td width="211" colspan="3" style="border-bottom: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 158.4pt; padding-right: 5.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">model<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 1.4pt; width: 63pt; padding-right: 1.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoHeader" style="border-bottom: medium none; border-left: medium none; line-height: 10pt; margin: 0cm 0cm 0pt; border-top: medium none; border-right: medium none"><span lang="EN-US" style="font-family: ����"><font size="2">ML1-1990T<o:p></o:p></font></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 1.4pt; width: 63pt; padding-right: 1.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoHeader" style="border-bottom: medium none; border-left: medium none; line-height: 10pt; margin: 0cm 0cm 0pt; border-top: medium none; border-right: medium none"><span lang="EN-US" style="font-family: ����"><font size="2">ML1-2690T<o:p></o:p></font></span></p>
+                        </td>
+                    </tr>
+                    <tr style="height: 8.5pt">
+                        <td rowspan="8" width="103" style="border-bottom: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; padding-bottom: 0cm; padding-left: 1.4pt; width: 77.4pt; padding-right: 1.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">Extemal <o:p></o:p></span></p>
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">dimension<o:p></o:p></span></p>
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">diagram<o:p></o:p></span></p>
+                        </td>
+                        <td width="60" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 45pt; padding-right: 5.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; text-indent: 14.15pt; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">A<o:p></o:p></span></p>
+                        </td>
+                        <td rowspan="6" width="48" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 1.4pt; width: 36pt; padding-right: 1.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoHeader" style="border-bottom: medium none; border-left: medium none; text-indent: 10.35pt; margin: 0cm 0cm 0pt; border-top: medium none; border-right: medium none"><span lang="EN-US" style="font-family: ����"><font size="2">mm<o:p></o:p></font></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">1262<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">1372<o:p></o:p></span></p>
+                        </td>
+                    </tr>
+                    <tr style="height: 8.5pt">
+                        <td width="60" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 45pt; padding-right: 5.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">B<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">900<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">900<o:p></o:p></span></p>
+                        </td>
+                    </tr>
+                    <tr style="height: 8.5pt">
+                        <td width="60" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 45pt; padding-right: 5.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">C<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">182<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">233<o:p></o:p></span></p>
+                        </td>
+                    </tr>
+                    <tr style="height: 8.5pt">
+                        <td width="60" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 45pt; padding-right: 5.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">D<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">188<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">260<o:p></o:p></span></p>
+                        </td>
+                    </tr>
+                    <tr style="height: 8.5pt">
+                        <td width="60" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 45pt; padding-right: 5.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">E<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">50<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">70<o:p></o:p></span></p>
+                        </td>
+                    </tr>
+                    <tr style="height: 8.5pt">
+                        <td width="60" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 45pt; padding-right: 5.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">F<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">45<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">60<o:p></o:p></span></p>
+                        </td>
+                    </tr>
+                    <tr style="height: 8.5pt">
+                        <td width="60" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 45pt; padding-right: 5.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">G<o:p></o:p></span></p>
+                        </td>
+                        <td width="48" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 1.4pt; width: 36pt; padding-right: 1.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt">&nbsp;<span lang="EN-US" style="font-family: ����; font-size: 9pt"><o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">57<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">88<o:p></o:p></span></p>
+                        </td>
+                    </tr>
+                    <tr style="height: 8.5pt">
+                        <td width="60" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 45pt; padding-right: 5.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">H<o:p></o:p></span></p>
+                        </td>
+                        <td width="48" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 1.4pt; width: 36pt; padding-right: 1.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt">&nbsp;<span lang="EN-US" style="font-family: ����; font-size: 9pt"><o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">7.5<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">13<o:p></o:p></span></p>
+                        </td>
+                    </tr>
+                    <tr style="height: 8.5pt">
+                        <td width="163" colspan="2" style="border-bottom: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 122.4pt; padding-right: 5.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">Weight<o:p></o:p></span></p>
+                        </td>
+                        <td width="48" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 1.4pt; width: 36pt; padding-right: 1.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">Kg<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">210<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">300<o:p></o:p></span></p>
+                        </td>
+                    </tr>
+                    <tr style="height: 8.5pt">
+                        <td width="163" colspan="2" style="border-bottom: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 122.4pt; padding-right: 5.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">DC voltage<o:p></o:p></span></p>
+                        </td>
+                        <td width="48" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 1.4pt; width: 36pt; padding-right: 1.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">V<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">48<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">170<o:p></o:p></span></p>
+                        </td>
+                    </tr>
+                    <tr style="height: 8.5pt">
+                        <td width="163" colspan="2" style="border-bottom: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 122.4pt; padding-right: 5.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; line-height: 10pt; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">Current��cold��<o:p></o:p></span></p>
+                        </td>
+                        <td width="48" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 1.4pt; width: 36pt; padding-right: 1.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">A<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">4.9<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">5.74<o:p></o:p></span></p>
+                        </td>
+                    </tr>
+                    <tr style="height: 8.5pt">
+                        <td width="163" colspan="2" style="border-bottom: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 122.4pt; padding-right: 5.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; line-height: 10pt; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">Consumption power��cold��<o:p></o:p></span></p>
+                        </td>
+                        <td width="48" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 1.4pt; width: 36pt; padding-right: 1.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoHeader" style="border-bottom: medium none; border-left: medium none; margin: 0cm 0cm 0pt; border-top: medium none; border-right: medium none"><span lang="EN-US" style="font-family: ����"><font size="2">Kw<o:p></o:p></font></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">0.48<o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">1.03<o:p></o:p></span></p>
+                        </td>
+                    </tr>
+                    <tr style="height: 8.5pt">
+                        <td width="163" colspan="2" style="border-bottom: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 122.4pt; padding-right: 5.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; line-height: 10pt; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt">Compatible rectifying<o:p></o:p></span></p>
+                        <p class="MsoNormal" align="center" style="text-align: center; line-height: 10pt; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: ����; font-size: 9pt"><span>&nbsp;</span>equipments<o:p></o:p></span></p>
+                        </td>
+                        <td width="48" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 1.4pt; width: 36pt; padding-right: 1.4pt; background: rgb(204,255,255); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoHeader" style="border-bottom: medium none; border-left: medium none; margin: 0cm 0cm 0pt; border-top: medium none; border-right: medium none"><span lang="EN-US" style="font-family: ����"><font size="2">set<o:p></o:p></font></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt">&nbsp;<span lang="EN-US" style="font-family: ����; font-size: 9pt"><o:p></o:p></span></p>
+                        </td>
+                        <td width="84" style="border-bottom: windowtext 0.5pt solid; border-left: rgb(236,233,216); padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; background: rgb(255,255,204); height: 8.5pt; border-top: rgb(236,233,216); border-right: windowtext 0.5pt solid; padding-top: 0cm; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+                        <p class="MsoNormal" align="center" style="text-align: center; margin: 0cm 0cm 0pt">&nbsp;<span lang="EN-US" style="font-family: ����; font-size: 9pt"><o:p></o:p></span></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </strong></span></td>
+            <td align="left"><img border="0" alt="" width="300" height="257" src="/products/image/Lifting%20magnet/Electromagnetic%20roller/2.jpg" /></td>
+        </tr>
+    </tbody>
+</table>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt">&nbsp;</p>

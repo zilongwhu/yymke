@@ -1,0 +1,83 @@
+<div style="text-align: center"><img alt="" src="/products/image/Permanent%20magnetic%20lifter/YB1%20series.gif" /></div>
+<div style="text-align: left">&nbsp;</div>
+<div style="text-align: center"><span style="font-size: 18px"><strong>Model, specifications and external dimensions:<br />
+</strong><span style="font-size: 7px">.</span><strong><br />
+</strong></span></div>
+<style type="text/css">table td{border: solid 1px black; font-size:12px;}</style>
+<table border="0" cellspacing="0" cellpadding="0" width="700" align="center" style="border-bottom: black 1px solid; border-left: black 1px solid; border-collapse: collapse; border-top: black 1px solid; border-right: black 1px solid">
+    <tbody>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 14px"><strong>Model</strong></span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 14px">A mm</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 14px">B mm</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 14px">C mm</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 14px">D mm</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 14px">Net weight</span>(kg)</td>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 14px">Max.attraction<br />
+            force</span>(&gt;= kg)</td>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 14px">Rated lifting<br />
+            capacity</span>(kg)</td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="font-size: 14px">YB1-0.2</span></td>
+            <td style="text-align: center">186</td>
+            <td style="text-align: center">110</td>
+            <td style="text-align: center">120</td>
+            <td style="text-align: center">170</td>
+            <td style="text-align: center">4</td>
+            <td style="text-align: center">500</td>
+            <td style="text-align: center">200</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 14px">YB1-0.3</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center">236</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">110</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">135</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">250</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">18</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">1050</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">300</td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="font-size: 14px">YB1-0.5</span></td>
+            <td style="text-align: center">290</td>
+            <td style="text-align: center">130</td>
+            <td style="text-align: center">135</td>
+            <td style="text-align: center">250</td>
+            <td style="text-align: center">28</td>
+            <td style="text-align: center">1680</td>
+            <td style="text-align: center">500</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 14px">YB1-1</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center">350</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">135</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">160</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">400</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">54</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">3450</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">1000</td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="font-size: 14px">YB1-2</span></td>
+            <td style="text-align: center">400</td>
+            <td style="text-align: center">190</td>
+            <td style="text-align: center">210</td>
+            <td style="text-align: center">500</td>
+            <td style="text-align: center">128</td>
+            <td style="text-align: center">6020</td>
+            <td style="text-align: center">2000</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center"><span style="font-size: 14px">YB1-3</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center">470</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">200</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">220</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">550</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">156</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">6800</td>
+            <td bgcolor="#eaf6fd" style="text-align: center">3000</td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: left">&nbsp;</div>

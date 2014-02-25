@@ -1,0 +1,279 @@
+<!--page language="java" pageEncoding="UTF-8-->
+<p class="MsoNormal" style="text-indent: 21.75pt; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-size: 12pt">This products is designed for coiling up and spooling off cable and fiber-optic cable, which transfer low electrical signal, such as cable connecting with the tensile and compression sensor and the fiber-optic cable connecting with camera. When the testing equipment is moving, the cable drum will intelligently trace it and coil up or spool off the cables or fiber-optic cable, avoiding damage of the cable ,thus makes sure the testing procedures can be carried on smoothly.</span><b><span lang="EN-US" style="font-size: 12pt"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="text-indent: 21.75pt; margin: 0cm 0cm 0pt"><b><span lang="EN-US"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><b><span lang="EN-US" style="font-size: 12pt">Overall dimension drawing<o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="margin: 0cm 0cm 0pt"><b><span lang="EN-US" style="font-size: 12pt">&nbsp;<img border="0" alt="" width="878" height="253" src="/products/image/Cable%20drum/signal%20type%20cable%20drum/1.gif" /><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt">&nbsp;</p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt">&nbsp;</p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><b><span lang="EN-US" style="font-size: 12pt">Overall dimensions table</span></b></p>
+<p class="MsoNormal" align="center" style="margin: 0cm 0cm 0pt"><b><span lang="EN-US" style="font-size: 12pt">
+<table border="1" cellspacing="0" cellpadding="0" align="center" style="border-bottom: medium none; border-left: medium none; border-collapse: collapse; border-top: medium none; border-right: medium none; mso-padding-alt: 0cm 1.4pt 0cm 1.4pt; mso-table-layout-alt: fixed; mso-border-alt: solid windowtext .5pt">
+    <tbody>
+        <tr>
+            <td width="122" style="border-bottom: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; padding-bottom: 0cm; padding-left: 1.4pt; width: 91.4pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">Size(mm)<o:p></o:p></span></p>
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">Overall series number<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">A<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">B<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">C<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">D1<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">D2<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">d<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">E<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">F<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">W<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 36pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">Weight<o:p></o:p></span></p>
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">(kg)<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="122" style="border-bottom: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; padding-bottom: 0cm; padding-left: 1.4pt; width: 91.4pt; padding-right: 1.4pt; background: #ccffff; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">1<o:p></o:p></span></p>
+            </td>
+            <td rowspan="4" width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">286<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">336<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">318<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">500<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">600<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">12<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">283<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">600<o:p></o:p></span></p>
+            </td>
+            <td rowspan="4" width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">100<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 36pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">95<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="122" style="border-bottom: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; padding-bottom: 0cm; padding-left: 1.4pt; width: 91.4pt; padding-right: 1.4pt; background: #ccffff; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">2<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">336<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">318<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">500<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">600<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">12<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">362<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">680<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 36pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">105<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="122" style="border-bottom: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; padding-bottom: 0cm; padding-left: 1.4pt; width: 91.4pt; padding-right: 1.4pt; background: #ccffff; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">3<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">372<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">418<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">700<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">800<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">12<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">457<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">888<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 36pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">135<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="122" style="border-bottom: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; padding-bottom: 0cm; padding-left: 1.4pt; width: 91.4pt; padding-right: 1.4pt; background: #ccffff; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">4<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">372<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">418<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">700<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">800<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">13<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">521<o:p></o:p></span></p>
+            </td>
+            <td width="36" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 27pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">958<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 36pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">150<o:p></o:p></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<o:p></o:p></span></b></p>
+<p align="left"><span lang="EN-US" style="font-family: 'Times New Roman'; font-size: 10.5pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 1.0pt; mso-fareast-font-family: ����; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><strong>Main technical data</strong></span></p>
+<p>
+<table border="1" cellspacing="0" cellpadding="0" align="center" style="border-bottom: medium none; border-left: medium none; border-collapse: collapse; border-top: medium none; border-right: medium none; mso-padding-alt: 0cm 1.4pt 0cm 1.4pt; mso-table-layout-alt: fixed; mso-border-alt: solid windowtext .5pt">
+    <tbody>
+        <tr>
+            <td width="98" style="border-bottom: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; padding-bottom: 0cm; padding-left: 1.4pt; width: 73.4pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">Cable model<o:p></o:p></span></p>
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">specification<o:p></o:p></span></p>
+            </td>
+            <td rowspan="2" width="60" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 45pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">10meter<o:p></o:p></span></p>
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">series<o:p></o:p></span></p>
+            </td>
+            <td rowspan="2" width="43" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 31.9pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">Overall series number<o:p></o:p></span></p>
+            </td>
+            <td rowspan="2" width="65" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 49.1pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">15meter<o:p></o:p></span></p>
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">series<o:p></o:p></span></p>
+            </td>
+            <td rowspan="2" width="43" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 31.9pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">Overall series number<o:p></o:p></span></p>
+            </td>
+            <td rowspan="2" width="65" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 49.1pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">20meter<o:p></o:p></span></p>
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">series<o:p></o:p></span></p>
+            </td>
+            <td rowspan="2" width="43" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 31.9pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">Overall series number<o:p></o:p></span></p>
+            </td>
+            <td rowspan="2" width="65" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 49.1pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">25meter<o:p></o:p></span></p>
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">series<o:p></o:p></span></p>
+            </td>
+            <td rowspan="2" width="43" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 31.9pt; padding-right: 1.4pt; background: #ccffff; border-top: windowtext 0.5pt solid; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">Overall series number<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="98" style="border-bottom: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; padding-bottom: 0cm; padding-left: 1.4pt; width: 73.4pt; padding-right: 1.4pt; background: #ccffff; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">Cores square<o:p></o:p></span></p>
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.3pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">(mm<sup>2</sup>)<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="98" style="border-bottom: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; padding-bottom: 0cm; padding-left: 1.4pt; width: 73.4pt; padding-right: 1.4pt; background: #ccffff; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">RVVP 4</span><span style="font-family: ����; font-size: 9pt; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">&times;</span><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">0.5<o:p></o:p></span></p>
+            </td>
+            <td width="60" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 45pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.5pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">JTA-10-4<o:p></o:p></span></p>
+            </td>
+            <td width="43" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 31.9pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.5pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">1<o:p></o:p></span></p>
+            </td>
+            <td width="65" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 49.1pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.5pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">JTA-15-4<o:p></o:p></span></p>
+            </td>
+            <td width="43" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 31.9pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.5pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">2<o:p></o:p></span></p>
+            </td>
+            <td width="65" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 49.1pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.5pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">JTA-20-4<o:p></o:p></span></p>
+            </td>
+            <td width="43" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 31.9pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.5pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">3<o:p></o:p></span></p>
+            </td>
+            <td width="65" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 49.1pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.5pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">JTA-25-4<o:p></o:p></span></p>
+            </td>
+            <td width="43" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 31.9pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.5pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">4<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="98" style="border-bottom: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; padding-bottom: 0cm; padding-left: 1.4pt; width: 73.4pt; padding-right: 1.4pt; background: #ccffff; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">RVVP 6</span><span style="font-family: ����; font-size: 9pt; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">&times;</span><span lang="EN-US" style="font-size: 9pt; mso-bidi-font-size: 12.0pt">0.5<o:p></o:p></span></p>
+            </td>
+            <td width="60" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 45pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.5pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">JTA-10-6<o:p></o:p></span></p>
+            </td>
+            <td width="43" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 31.9pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.5pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">1<o:p></o:p></span></p>
+            </td>
+            <td width="65" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 49.1pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.5pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">JTA-15-6<o:p></o:p></span></p>
+            </td>
+            <td width="43" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 31.9pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.5pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">2<o:p></o:p></span></p>
+            </td>
+            <td width="65" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 49.1pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.5pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">JTA-20-6<o:p></o:p></span></p>
+            </td>
+            <td width="43" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 31.9pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.5pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">3<o:p></o:p></span></p>
+            </td>
+            <td width="65" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 49.1pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.5pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">JTA-25-6<o:p></o:p></span></p>
+            </td>
+            <td width="43" style="border-bottom: windowtext 0.5pt solid; border-left: #ece9d8; padding-bottom: 0cm; padding-left: 1.4pt; width: 31.9pt; padding-right: 1.4pt; background: #ffffcc; border-top: #ece9d8; border-right: windowtext 0.5pt solid; padding-top: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" align="center" style="text-align: center; line-height: 12pt; margin: 0cm 0cm 0pt; mso-line-height-rule: exactly"><span lang="EN-US" style="letter-spacing: -0.5pt; font-size: 9pt; mso-bidi-font-size: 12.0pt">4<o:p></o:p></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span lang="EN-US">Note: We manufacture RVVPn&times;1mm2 30-70 series products according to customer's requirement.</span></p>

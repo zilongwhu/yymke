@@ -1,0 +1,129 @@
+<style type="text/css">table.my td{border: solid 1px black; font-size:12px;}</style>
+<table width="800" cellspacing="0" cellpadding="0" border="0" align="center">
+    <tbody>
+        <tr>
+            <td align="center"><img height="263" width="213" src="/products/image/Permanent%20magnetic%20lifter/YX%20series.gif" alt="" /></td>
+            <td><img height="170" width="472" src="/products/image/Permanent%20magnetic%20lifter/YX%20series-2.gif" alt="" /></td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: center;"><br />
+<strong><span style="font-size: 18px;">Model,specifications and external dimensions:<br />
+<span style="font-size: 8px;">.</span><br />
+</span></strong></div>
+<table width="780" cellspacing="0" cellpadding="0" border="0" align="center" style="border: 1px solid black; border-collapse: collapse;" class="my">
+    <tbody>
+        <tr>
+            <td bgcolor="#eaf6fd" rowspan="2" style="text-align: center;"><span style="font-size: 12px;"><strong>Model\Data</strong></span></td>
+            <td bgcolor="#eaf6fd" rowspan="2" style="text-align: center;"><span style="font-size: 12px;"><strong>Lifting <br />
+            Capacity</strong></span>(kg)</td>
+            <td bgcolor="#eaf6fd" rowspan="2" style="text-align: center;"><span style="font-size: 12px;"><strong>Min.Unloading <br />
+            Capacity</strong></span>(kg)</td>
+            <td bgcolor="#eaf6fd" rowspan="2" style="text-align: center;"><span style="font-size: 12px;"><strong>Min.Unloading <br />
+            plate Thickness</strong></span></td>
+            <td bgcolor="#eaf6fd" rowspan="2" style="text-align: center;"><span style="font-size: 12px;"><strong>Min.Holding <br />
+            Matenial Contour</strong></span></td>
+            <td bgcolor="#eaf6fd" colspan="5" style="text-align: center;"><span style="font-size: 12px;"><strong>Overall Dimension</strong></span>(mm)</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;" rowspan="2"><span style="font-size: 12px;"><strong>Mass</strong></span>(kg)</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;">A</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">a</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">B</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">H</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">h</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;"><span style="font-size: 14px;">YX2-0.2(B)</span></td>
+            <td style="text-align: center;">&nbsp;200</td>
+            <td style="text-align: center;">&nbsp;20</td>
+            <td style="text-align: center;">&nbsp;3</td>
+            <td style="text-align: center;">&nbsp;440&times;185</td>
+            <td style="text-align: center;">&nbsp;440</td>
+            <td style="text-align: center;">&nbsp;350</td>
+            <td style="text-align: center;">&nbsp;185</td>
+            <td style="text-align: center;">&nbsp;525</td>
+            <td style="text-align: center;">&nbsp;112</td>
+            <td style="text-align: center;">&nbsp;50</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;">YX2-0.5(B)</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;500</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;50</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;5</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;560&times;275</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;560</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;470</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;275</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;645</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;112</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;80</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;"><span style="font-size: 14px;">YX2-1(B)</span></td>
+            <td style="text-align: center;">&nbsp;1000</td>
+            <td style="text-align: center;">&nbsp;100</td>
+            <td style="text-align: center;">&nbsp;8</td>
+            <td style="text-align: center;">&nbsp;720&times;355</td>
+            <td style="text-align: center;">&nbsp;720</td>
+            <td style="text-align: center;">&nbsp;540</td>
+            <td style="text-align: center;">&nbsp;355</td>
+            <td style="text-align: center;">&nbsp;760</td>
+            <td style="text-align: center;">&nbsp;165</td>
+            <td style="text-align: center;">&nbsp;140</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;">YX2-2</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;2000</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;200</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;10</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;870&times;436</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;870</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;690</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;436</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;905</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;165</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;235</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;"><span style="font-size: 14px;">YX2-3</span></td>
+            <td style="text-align: center;">&nbsp;3000</td>
+            <td style="text-align: center;">&nbsp;500</td>
+            <td style="text-align: center;">&nbsp;14</td>
+            <td style="text-align: center;">&nbsp;1100&times;410</td>
+            <td style="text-align: center;">&nbsp;1100</td>
+            <td style="text-align: center;">&nbsp;950</td>
+            <td style="text-align: center;">&nbsp;436</td>
+            <td style="text-align: center;">&nbsp;1090</td>
+            <td style="text-align: center;">&nbsp;180</td>
+            <td style="text-align: center;">&nbsp;410</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;">YX2-5</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;5000</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;1500</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;20</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;1270&times;565</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;1270</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;1010</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;565</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;1130</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;220</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">&nbsp;640</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;"><span style="font-size: 14px;">YX2-10</span></td>
+            <td style="text-align: center;">&nbsp;10000</td>
+            <td style="text-align: center;">&nbsp;3000</td>
+            <td style="text-align: center;">&nbsp;30</td>
+            <td style="text-align: center;">&nbsp;1270&times;1100</td>
+            <td style="text-align: center;">&nbsp;1270</td>
+            <td style="text-align: center;">&nbsp;1010</td>
+            <td style="text-align: center;">&nbsp;1100</td>
+            <td style="text-align: center;">&nbsp;1480</td>
+            <td style="text-align: center;">&nbsp;350</td>
+            <td style="text-align: center;">&nbsp;1450</td>
+        </tr>
+    </tbody>
+</table>
+<br />

@@ -1,0 +1,72 @@
+<div style="text-align: center;"><img height="169" width="158" alt="" src="/products/image/Permanent%20magnetic%20lifter/YB2%20series.gif" /><br />
+<span style="font-size: 18px;"><strong><br />
+Model, specifications and external dimensions:</strong></span><br />
+<span style="font-size: 7px;">.</span><br />
+<style type="text/css">table td{border: solid 1px black; font-size:12px;}</style>
+<table width="700" cellspacing="0" cellpadding="0" border="0" align="center" style="border: 1px solid black; border-collapse: collapse;">
+    <tbody>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;"><strong>Model</strong></span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;">A mm</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;">B mm</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;">C mm</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;">D mm</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;">Net weight</span>(kg)</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;">Max.attraction<br />
+            force</span>(&gt;= kg)</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;">Rated lifting<br />
+            capacity</span>(kg)</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;"><span style="font-size: 14px;">YB2-1</span></td>
+            <td style="text-align: center;">690</td>
+            <td style="text-align: center;">440</td>
+            <td style="text-align: center;">110</td>
+            <td style="text-align: center;">580</td>
+            <td style="text-align: center;">160</td>
+            <td style="text-align: center;">2500</td>
+            <td style="text-align: center;">1000</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;">YB2-2</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">690</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">540</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">110</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">800</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">265</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">4600</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">2000</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;"><span style="font-size: 14px;">YB2-3</span></td>
+            <td style="text-align: center;">880</td>
+            <td style="text-align: center;">540</td>
+            <td style="text-align: center;">125</td>
+            <td style="text-align: center;">1000</td>
+            <td style="text-align: center;">370</td>
+            <td style="text-align: center;">6000</td>
+            <td style="text-align: center;">3000</td>
+        </tr>
+        <tr>
+            <td bgcolor="#eaf6fd" style="text-align: center;"><span style="font-size: 14px;">YB2-5</span></td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">970</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">700</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">135</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">1100</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">680</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">9000</td>
+            <td bgcolor="#eaf6fd" style="text-align: center;">5000</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;"><span style="font-size: 14px;">YB2-10</span></td>
+            <td style="text-align: center;">1440</td>
+            <td style="text-align: center;">800</td>
+            <td style="text-align: center;">160</td>
+            <td style="text-align: center;">1450</td>
+            <td style="text-align: center;">1200</td>
+            <td style="text-align: center;">20000</td>
+            <td style="text-align: center;">10000</td>
+        </tr>
+    </tbody>
+</table>
+</div>

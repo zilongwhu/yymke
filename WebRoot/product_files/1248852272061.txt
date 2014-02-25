@@ -1,0 +1,287 @@
+<!--page language="java" pageEncoding="UTF-8-->
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><b><span lang="EN-US" style="font-size: 12pt">Silicon rectifier system(STQL type)<o:p></o:p></span></b></p>
+<p class="MsoBodyText" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: 'Times New Roman'; letter-spacing: -0.3pt">The equipments of this series obtain DC 220V from AC main power supply is consist of automatic powerswitch,transformer,silicon retifier,Dccontactor,etc.<o:p></o:p></span></p>
+<p class="MsoBodyText" style="margin: 0cm 0cm 0pt"><span style="font-size: 16px"><b><span lang="EN-US" style="font-family: 'Times New Roman'; letter-spacing: -0.3pt">Single silicon rectifier system(STML type)</span></b></span><b><span lang="EN-US" style="font-family: 'Times New Roman'; letter-spacing: -0.3pt"><o:p></o:p></span></b></p>
+<p class="MsoBodyText" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: 'Times New Roman'; letter-spacing: -0.3pt">The equipment utilizes single-phase bridge rectifier type.for the magnetx whose capacity is less than 4Kw.<o:p></o:p></span></p>
+<p style="text-align: center"><img height="295" alt="" width="260" border="0" src="/products/image/Lifting%20magnet/SILICON%20RECTIFER%20CONXTANT%20VOLTAGE%20CONTROL%20STQLSTML%20SERIES/1.jpg" />&nbsp;&nbsp;&nbsp; <img height="300" alt="" width="270" border="0" src="/products/image/Lifting%20magnet/SILICON%20RECTIFER%20CONXTANT%20VOLTAGE%20CONTROL%20STQLSTML%20SERIES/2.jpg" /></p>
+<p class="MsoBodyText" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: 'Times New Roman'; letter-spacing: -0.3pt">Application of standard apparatus<o:p></o:p></span></p>
+<p align="left">
+<table cellspacing="0" cellpadding="0" align="center" border="1" style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; border-collapse: collapse; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-table-layout-alt: fixed; mso-border-alt: solid windowtext .5pt">
+    <tbody>
+        <tr>
+            <td width="139" colspan="2" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: windowtext 0.5pt solid; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: windowtext 0.5pt solid; width: 104.4pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">Capacity of liftingmanaget<o:p></o:p></span></p>
+            </td>
+            <td width="59" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: windowtext 0.5pt solid; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 43.9pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">4<o:p></o:p></span></p>
+            </td>
+            <td width="58" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: windowtext 0.5pt solid; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 43.45pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">7<o:p></o:p></span></p>
+            </td>
+            <td width="58" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: windowtext 0.5pt solid; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 43.45pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">9<o:p></o:p></span></p>
+            </td>
+            <td width="58" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: windowtext 0.5pt solid; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 43.45pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">14<o:p></o:p></span></p>
+            </td>
+            <td width="58" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: windowtext 0.5pt solid; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 43.45pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">19<o:p></o:p></span></p>
+            </td>
+            <td width="58" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: windowtext 0.5pt solid; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 43.45pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">25<o:p></o:p></span></p>
+            </td>
+            <td width="59" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: windowtext 0.5pt solid; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 44.15pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">32<o:p></o:p></span></p>
+            </td>
+            <td width="58" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: windowtext 0.5pt solid; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 43.45pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">38<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="68" rowspan="3" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: windowtext 0.5pt solid; width: 51.3pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">Apparatus<o:p></o:p></span></p>
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><font face="创艺简行楷">&nbsp;<span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt"><o:p></o:p></span></font></p>
+            </td>
+            <td width="71" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 53.1pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">Control panel<o:p></o:p></span></p>
+            </td>
+            <td width="59" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 43.9pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">STML-<o:p></o:p></span></p>
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">4E-C<o:p></o:p></span></p>
+            </td>
+            <td width="58" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 43.45pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">STQL-<o:p></o:p></span></p>
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">7E-C<o:p></o:p></span></p>
+            </td>
+            <td width="58" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 43.45pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">STQL-<o:p></o:p></span></p>
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">9E-C<o:p></o:p></span></p>
+            </td>
+            <td width="58" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 43.45pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">STQL-<o:p></o:p></span></p>
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">14E-C<o:p></o:p></span></p>
+            </td>
+            <td width="58" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 43.45pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">STQL-<o:p></o:p></span></p>
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">19E-C<o:p></o:p></span></p>
+            </td>
+            <td width="58" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 43.45pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">STQL-<o:p></o:p></span></p>
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">25E-C<o:p></o:p></span></p>
+            </td>
+            <td width="59" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 44.15pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">STQL-<o:p></o:p></span></p>
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">932E-C<o:p></o:p></span></p>
+            </td>
+            <td width="58" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 43.45pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">STQL-<o:p></o:p></span></p>
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">38E-C<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="71" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 53.1pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">Operation<o:p></o:p></span></p>
+            </td>
+            <td width="465" colspan="8" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 348.75pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">Be supplied according to working requirment<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="71" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 53.1pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">Meter box<o:p></o:p></span></p>
+            </td>
+            <td width="465" colspan="8" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 348.75pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">MP-20s<o:p></o:p></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">Note: when enviromental temperature ix higher than 40</span><span style="font-size: 10.5pt; font-family: 宋体; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">℃</span><span lang="EN-US" style="font-size: 10.5pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt"> please make special mention when inquiry.</span></p>
+<p><span lang="EN-US" style="font-family: 'Times New Roman'; letter-spacing: -0.3pt"><font size="3"><strong>Dimensions<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; </span>Unit: mm<o:p></o:p></strong></font></span></p>
+<div class="Section1" style="layout-grid:  15.6pt none">
+<table cellspacing="0" cellpadding="0" align="center" border="1" style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; border-collapse: collapse; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-table-layout-alt: fixed; mso-border-alt: solid windowtext .5pt">
+    <tbody>
+        <tr>
+            <td width="91" rowspan="2" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: windowtext 0.5pt solid; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: windowtext 0.5pt solid; width: 68.4pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">Type<o:p></o:p></span></p>
+            </td>
+            <td width="252" colspan="5" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: windowtext 0.5pt solid; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 189.25pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">Control panel<o:p></o:p></span></p>
+            </td>
+            <td width="192" colspan="4" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: windowtext 0.5pt solid; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 143.75pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">Transfomer<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 36pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">Fig No.<o:p></o:p></span></p>
+            </td>
+            <td width="57" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 42.8pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">W<o:p></o:p></span></p>
+            </td>
+            <td width="57" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 42.6pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">D<o:p></o:p></span></p>
+            </td>
+            <td width="42" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 31.6pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">H<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 36.25pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">Weight<o:p></o:p></span></p>
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">(kg)<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 35.75pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">W<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 36pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">D<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 36pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">H<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: #ece9d8; width: 36pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">Weight<o:p></o:p></span></p>
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">(kg)<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="91" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: windowtext 0.5pt solid; width: 68.4pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">STML-4E-C<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span style="font-size: 9pt; font-family: 宋体; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">①</span><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt"><o:p></o:p></span></p>
+            </td>
+            <td width="57" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 42.8pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">600<o:p></o:p></span></p>
+            </td>
+            <td width="57" rowspan="8" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 42.6pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">450<o:p></o:p></span></p>
+            </td>
+            <td width="42" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 31.6pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">850<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36.25pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">120<o:p></o:p></span></p>
+            </td>
+            <td width="192" colspan="4" rowspan="5" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 143.75pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">Within transformer<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="91" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: windowtext 0.5pt solid; width: 68.4pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">STQL-7E-C<o:p></o:p></span></p>
+            </td>
+            <td width="48" rowspan="7" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span style="font-size: 9pt; font-family: 宋体; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">②</span><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt"><o:p></o:p></span></p>
+            </td>
+            <td width="57" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 42.8pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">700<o:p></o:p></span></p>
+            </td>
+            <td width="42" rowspan="2" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 31.6pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">950<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36.25pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">135<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="91" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: windowtext 0.5pt solid; width: 68.4pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">STQL-9E-C<o:p></o:p></span></p>
+            </td>
+            <td width="57" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 42.8pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">900<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36.25pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">180<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="91" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: windowtext 0.5pt solid; width: 68.4pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">STQL-14E-C<o:p></o:p></span></p>
+            </td>
+            <td width="57" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 42.8pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">1300<o:p></o:p></span></p>
+            </td>
+            <td width="42" rowspan="2" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 31.6pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">1000<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36.25pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">230<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="91" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: windowtext 0.5pt solid; width: 68.4pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">STQL-19E-C<o:p></o:p></span></p>
+            </td>
+            <td width="57" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 42.8pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">1000<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36.25pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">240<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="91" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: windowtext 0.5pt solid; width: 68.4pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">STQL-25E-C<o:p></o:p></span></p>
+            </td>
+            <td width="57" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 42.8pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">1300<o:p></o:p></span></p>
+            </td>
+            <td width="42" rowspan="3" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 31.6pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">1500<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36.25pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">220<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 35.75pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">550<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">480<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">625<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">150<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="91" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: windowtext 0.5pt solid; width: 68.4pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">STQL-32E-C<o:p></o:p></span></p>
+            </td>
+            <td width="57" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 42.8pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><font face="创艺简行楷">&nbsp;<span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt"><o:p></o:p></span></font></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36.25pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">230<o:p></o:p></span></p>
+            </td>
+            <td width="48" rowspan="2" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 35.75pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">600<o:p></o:p></span></p>
+            </td>
+            <td width="48" rowspan="2" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">510<o:p></o:p></span></p>
+            </td>
+            <td width="48" rowspan="2" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">675<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">190<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="91" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ccffff; padding-bottom: 0cm; border-left: windowtext 0.5pt solid; width: 68.4pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">STQL-38E-C<o:p></o:p></span></p>
+            </td>
+            <td width="57" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 42.8pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><font face="创艺简行楷">&nbsp;<span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt"><o:p></o:p></span></font></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36.25pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">250<o:p></o:p></span></p>
+            </td>
+            <td width="48" style="border-right: windowtext 0.5pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; background: #ffffcc; padding-bottom: 0cm; border-left: #ece9d8; width: 36pt; padding-top: 0cm; border-bottom: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoBodyText" align="center" style="margin: 0cm 0cm 0pt; text-align: center"><span lang="EN-US" style="font-size: 9pt; font-family: 'Times New Roman'; letter-spacing: -0.3pt; mso-bidi-font-size: 12.0pt">210<o:p></o:p></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
