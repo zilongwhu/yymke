@@ -5,7 +5,7 @@
 	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
 	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
   <welcome-file-list>
-    <welcome-file>redirect.jsp</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
   </welcome-file-list>
   <context-param>
   	<param-name>DBPath</param-name>
@@ -333,8 +333,4 @@
   <listener>
   	<listener-class>liftingmagnet.com.listener.InitListener</listener-class>
   </listener>
-  <error-page>
-  	<error-code>404</error-code>
-  	<location>/zh/index.jsp</location>
-  </error-page>
 </web-app>
