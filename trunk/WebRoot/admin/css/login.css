@@ -1,0 +1,64 @@
+body
+{
+	background-color: #cce7ff;
+	font-size: 12px;
+}
+
+body,table,form,input
+{
+	font-size: 12px;
+}
+
+body,div,table,form
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+input
+{
+	width: 100px;
+}
+
+.button
+{
+	width: 50px;
+	margin: 0px 10px;
+}
+
+.login
+{
+	background-color: #eef7ff;
+	border: solid 1px #3b97d9;
+	position: absolute;
+	width: 270px;
+	height: 145px;
+}
+
+.login_header
+{
+	background: url(../images/top_bg.gif) left bottom repeat-x;
+	padding-left: 10px;
+	line-height: 26px;
+	height: 26px;
+}
+
+.login_content
+{
+	padding: 10px;
+}
+
+.feedback
+{
+	padding-right: 16px;
+}
+.feedback_right
+{
+	padding-right: 16px;
+	background: url(../images/right.gif) right center no-repeat;
+}
+.feedback_wrong
+{
+	padding-right: 16px;
+	background: url(../images/wrong.gif) right center no-repeat;
+}
